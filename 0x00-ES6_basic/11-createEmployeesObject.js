@@ -1,4 +1,3 @@
-
 export default function createEmployeesObject(departmentName, employees) {
   return {
     [departmentName]: [
@@ -6,4 +5,3 @@ export default function createEmployeesObject(departmentName, employees) {
     ],
   };
 }
-
